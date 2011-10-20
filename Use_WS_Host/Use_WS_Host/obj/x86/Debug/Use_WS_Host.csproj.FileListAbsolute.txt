@@ -1,0 +1,13 @@
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\obj\x86\Debug\Use_WS_Host.Form1.resources
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\obj\x86\Debug\Use_WS_Host.Properties.Resources.resources
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\bin\Debug\Use_WS_Host.exe.config
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\bin\Debug\Use_WS_Host.exe
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\bin\Debug\Use_WS_Host.pdb
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\obj\x86\Debug\Use_WS_Host.exe
+c:\users\son\documents\visual studio 2010\Projects\Use_WS_Host\Use_WS_Host\obj\x86\Debug\Use_WS_Host.pdb
+C:\Users\kill\Downloads\Compressed\Use_WS_Host\Use_WS_Host\bin\Debug\Use_WS_Host.exe.config
+C:\Users\kill\Downloads\Compressed\Use_WS_Host\Use_WS_Host\obj\x86\Debug\Use_WS_Host.exe
+C:\Users\kill\Downloads\Compressed\Use_WS_Host\Use_WS_Host\obj\x86\Debug\Use_WS_Host.pdb

@@ -1,0 +1,18 @@
+c:\users\son\documents\visual studio 2010\Projects\WS_Host\WS_Host\bin\Debug\WS_Host.exe
+c:\users\son\documents\visual studio 2010\Projects\WS_Host\WS_Host\bin\Debug\WS_Host.pdb
+c:\users\son\documents\visual studio 2010\Projects\WS_Host\WS_Host\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\son\documents\visual studio 2010\Projects\WS_Host\WS_Host\obj\x86\Debug\WS_Host.Form1.resources
+c:\users\son\documents\visual studio 2010\Projects\WS_Host\WS_Host\obj\x86\Debug\WS_Host.Properties.Resources.resources
+c:\users\son\documents\visual studio 2010\Projects\WS_Host\WS_Host\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\son\documents\visual studio 2010\Projects\WS_Host\WS_Host\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\son\documents\visual studio 2010\Projects\WS_Host\WS_Host\obj\x86\Debug\WS_Host.exe
+c:\users\son\documents\visual studio 2010\Projects\WS_Host\WS_Host\obj\x86\Debug\WS_Host.pdb
+C:\Users\kill\Downloads\Compressed\WS_Host\WS_Host\obj\x86\Debug\WS_Host.exe
+C:\Users\kill\Downloads\Compressed\WS_Host\WS_Host\obj\x86\Debug\WS_Host.pdb
+C:\Users\kill\Downloads\Compressed\WS_Host\WS_Host\bin\Debug\WS_Host.exe
+C:\Users\kill\Downloads\Compressed\WS_Host\WS_Host\bin\Debug\WS_Host.pdb
+C:\Users\kill\Downloads\Compressed\WS_Host\WS_Host\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\kill\Downloads\Compressed\WS_Host\WS_Host\obj\x86\Debug\WS_Host.Form1.resources
+C:\Users\kill\Downloads\Compressed\WS_Host\WS_Host\obj\x86\Debug\WS_Host.Properties.Resources.resources
+C:\Users\kill\Downloads\Compressed\WS_Host\WS_Host\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\kill\Downloads\Compressed\WS_Host\WS_Host\obj\x86\Debug\GenerateResource.write.1.tlog
